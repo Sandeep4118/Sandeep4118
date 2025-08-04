@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Tiwari</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | DSA Explorer | Animation Learner 🎨</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Explorer;Animation+Learner+🎨" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -65,6 +68,8 @@
 
 - 📧 **Email:** sandeep@example.com  
 - 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://linkedin.com/in/sandeep-kumar-tiwari)
+- 🧠 **LeetCode:** [sandeepkumar68](https://leetcode.com/sandeepkumar68/)
+
 - 🌐 **Portfolio Website (Coming Soon...)**
 
 ---

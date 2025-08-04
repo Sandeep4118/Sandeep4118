@@ -1,9 +1,10 @@
 <div align="center">
 
 # Hi there, I'm Sandeep Kumar Tiwari 👋  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=600&lines=Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Explorer+%7C+Animation+Learner+🎨;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=600&lines=Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Explorer+%7C+Full+Stack+Developer;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 

@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar Tiwari</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Explorer;Animation+Learner+🎨" alt="Typing SVG" />
-</p>
+<div align="center">
 
+# Hi there, I'm Sandeep Kumar Tiwari 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=600&lines=Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Explorer+%7C+Animation+Learner+🎨;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -54,6 +55,16 @@
 
 ---
 
+### 🔢 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sandeepkumar68/)
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sandeepkumar68?theme=light&font=Fira+Code&ext=activity" alt="leetcode stats">
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -68,9 +79,7 @@
 
 - 📧 **Email:** sandeep@example.com  
 - 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://linkedin.com/in/sandeep-kumar-tiwari)
-- 🧠 **LeetCode:** [sandeepkumar68](https://leetcode.com/sandeepkumar68/)
-
-- 🌐 **Portfolio Website (Coming Soon...)**
+- 🌐 **Portfolio Website:** Coming Soon...
 
 ---
 
@@ -81,4 +90,4 @@
 
 ---
 
-⭐️ *Thanks for visiting my GitHub! Feel free to star or fork any repo if you like my work.*  
+⭐️ *Thanks for visiting my GitHub! Feel free to star or fork any repo if you like my work.*

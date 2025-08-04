@@ -78,8 +78,8 @@
 
 ### 📫 Contact Me
 
-- 📧 **Email:** sandeep@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://linkedin.com/in/sandeep-kumar-tiwari)
+- 📧 **Email:** sandeepkumart088@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/)
 - 🌐 **Portfolio Website:** Coming Soon...
 
 ---

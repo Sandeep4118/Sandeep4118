@@ -11,7 +11,7 @@
 
 - 🎓 I’m a B.Tech student passionate about backend development.
 - 🚀 Currently learning **Spring Boot**, **DSA**, and **ReactJS** for full-stack projects.
-- 🎨 Exploring **2D & 3D animation** as a creative passion.
+###- 🎨 Exploring **2D & 3D animation** as a creative passion.
 - 🔭 Preparing for **placements** with real-world projects and clean code.
 - 🧠 Curious about **AI**, **Machine Learning**, and **tech innovations**.
 

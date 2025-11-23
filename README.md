@@ -5,16 +5,15 @@
 
 </div>
 
-
 ---
 
 ### 🧑‍💻 About Me
 
 - 🎓 I’m a B.Tech student passionate about backend development.
 - 🚀 Currently learning **Spring Boot**, **DSA**, and **ReactJS** for full-stack projects.
-- 🎨 I'm also exploring the world of **2D & 3D animation** as a creative learner.
-- 🔭 Preparing for **placements** with a focus on real-world projects and clean coding.
-- 🧠 Always curious about **AI**, **Machine Learning**, and **tech innovations**.
+- 🎨 Exploring **2D & 3D animation** as a creative passion.
+- 🔭 Preparing for **placements** with real-world projects and clean code.
+- 🧠 Curious about **AI**, **Machine Learning**, and **tech innovations**.
 
 ---
 
@@ -24,13 +23,9 @@
   *Spring Boot, MongoDB, HTML/CSS*  
   A smart resume builder powered by AI with clean backend structure and RESTful APIs.
 
-- 🏥 [**Hospital Management System**](https://github.com/Sandeep4118/hospital-management-system)  
-  *Spring Boot, MySQL*  
-  Manage patients, doctors, and appointments with full CRUD functionality.
-
-- 📚 [**Library Book Demand Forecasting System**](https://github.com/Sandeep4118/library-forecasting-system)  
-  *ARIMA, LSTM, Spring Boot, JDBC*  
-  Forecast book demand using time series models with backend logic in Java.
+- 🏠 [**Property Management System**](https://github.com/Sandeep4118/property_managmentSystem)  
+  *Spring Boot, MySQL, HTML, CSS, JavaScript*  
+  A complete property management application to manage properties, tenants, rent records, and maintenance with full CRUD operations.
 
 ---
 
@@ -79,7 +74,7 @@
 ### 📫 Contact Me
 
 - 📧 **Email:** sandeepkumart088@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/)
+- 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/)  
 - 🌐 **Portfolio Website:** Coming Soon...
 
 ---

@@ -55,6 +55,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sandeepkumar68/)
 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sandeepkuywwy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sandeepkuywwy/)
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sandeepkumar68?theme=light&font=Fira+Code&ext=activity" alt="leetcode stats">
 </p>

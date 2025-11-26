@@ -23,7 +23,7 @@
   A smart resume builder powered by AI with clean backend structure and RESTful APIs.
 
 - 🏠 [**Property Management System**](https://github.com/Sandeep4118/property_managmentSystem)  
-  *Spring Boot, MySQL, HTML, CSS, JavaScript*  
+  *Spring Boot, MySQL, HTML, CSS, JavaScript*
   A complete property management application to manage properties, tenants, rent records, and maintenance with full CRUD operations.
 
 ---

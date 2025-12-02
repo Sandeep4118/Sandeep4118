@@ -22,6 +22,7 @@
 
 ### 🚀 **AI Resume Builder**  
 #### _Spring Boot | HTML | CSS | JavaScript | REST API_  
+
 **Tech Icons:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
@@ -29,15 +30,22 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-A full-stack AI-powered resume creation tool built using **Spring Boot** for backend logic and **HTML/CSS/JS** for the UI.  
-It lets users create, edit, and customize resumes with **live preview** and **PDF export** support.  
-The backend processes resume data through well-structured REST APIs, while the frontend provides a responsive and clean editing environment.  
-Designed with modular components to ensure fast content rendering and smooth user experience.
+**Description:**  
+A full-stack AI-powered resume creation tool with an interactive UI and dynamic PDF export system.
+
+**Key Features:**  
+- ⚙️ Built using **Spring Boot** for backend processing and template handling  
+- 🖥️ Frontend made with **HTML, CSS, and JavaScript** for responsive UI  
+- 🔁 **Live preview** while editing resume content  
+- 📄 **PDF export** functionality with clean formatting  
+- 🧩 Modular REST API design for fast and smooth content rendering  
+- 🎯 Focused on real-time editing and user-friendly experience  
 
 ---
 
 ### 🏠 **Property Management System**  
 #### _Spring Boot | MySQL | HTML | CSS | JavaScript | Authentication_  
+
 **Tech Icons:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
@@ -46,15 +54,21 @@ Designed with modular components to ensure fast content rendering and smooth use
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-A robust property and tenant management platform built with **Spring Boot** and **MySQL**.  
-It allows users to list, search, and manage rental properties with **secure login and role-based access control**.  
-The backend uses REST APIs to handle CRUD operations for properties, tenants, rent cycles, and maintenance records.  
-The frontend (HTML/CSS/JS) provides a clean and user-friendly dashboard for interacting with the system.  
-Designed for reliable data handling and seamless workflow management.
+**Description:**  
+A secure and scalable platform for managing rental properties, tenants, and rent activities.
+
+**Key Features:**  
+- 🏡 Add, search, update, and delete property listings (Full CRUD)  
+- 🔑 **Role-based login & authentication** using Spring Security  
+- 🗄️ Backend powered by **Spring Boot** with clean REST API design  
+- 💾 **MySQL** used for structured and reliable data storage  
+- 🖥️ Frontend built using **HTML/CSS/JS** with a simple intuitive UI  
+- 📊 Supports tenant management, rent details & maintenance workflows  
+- 🔐 Ensures data privacy and smooth multi-user operations  
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 #### 👨‍💻 Languages & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -79,7 +93,7 @@ Designed for reliable data handling and seamless workflow management.
 
 ---
 
-### 🔢 Coding Profiles
+## 🔢 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sandeepkumar68/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sandeepkuywwy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sandeepkuywwy/)
@@ -90,7 +104,7 @@ Designed for reliable data handling and seamless workflow management.
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandeep4118&show_icons=true&theme=radical" alt="stats" />
@@ -100,7 +114,7 @@ Designed for reliable data handling and seamless workflow management.
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - 🥇 **Top Finalist** in a college-level coding event  
 - ⌨️ **80 WPM typing speed** with 95% accuracy  
@@ -108,7 +122,7 @@ Designed for reliable data handling and seamless workflow management.
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 - 📧 **Email:** sandeepkumart088@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/)  
@@ -122,4 +136,4 @@ Designed for reliable data handling and seamless workflow management.
 
 ---
 
-⭐️ **Thanks for visiting!** Feel free to star ⭐ my repositories if you like my work!  
+⭐️ **Thanks for visiting!** Feel free to star ⭐ my repositories if you like my work!

@@ -9,22 +9,26 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I’m a B.Tech student passionate about backend development.
-- 🚀 Currently learning **Spring Boot**, **DSA**, and **ReactJS** for full-stack projects.
-- 🔭 Preparing for **placements** with real-world projects and clean code.
-- 🧠 Curious about **AI**, **cloud** and **tech innovations**.
+- 🎓 B.Tech CSE (AI) student at NIET, Greater Noida  
+- 🚀 Learning **Spring Boot**, **React**, and **DSA** to build full-stack apps  
+- 🔭 Working on real-world backend projects with clean architecture  
+- 🧠 Passionate about **AI**, **cloud**, and modern development tools  
 
 ---
 
 ### 💼 My Projects
 
-- 🚀 [**AI Resume Builder**](https://github.com/Sandeep4118/ai-resume-builder)  
-  *Spring Boot, MongoDB, HTML/CSS*  
-  A smart resume builder powered by AI with clean backend structure and RESTful APIs.
+#### 🚀 **AI Resume Builder**
+- AI-powered resume generator with editable templates  
+- Live preview + PDF export functionality  
+- Built using **Spring Boot** (Backend) and **HTML/CSS/JS** (Frontend)  
+- Clean API design for smooth resume creation  
 
-- 🏠 [**Property Management System**](https://github.com/Sandeep4118/property_managmentSystem)  
-  *Spring Boot, MySQL, HTML, CSS, JavaScript*
-  A complete property management application to manage properties, tenants, rent records, and maintenance with full CRUD operations.
+#### 🏠 **Property Management System**
+- Platform for listing, searching & managing rental properties  
+- Added **secure login + role-based access**  
+- Integrated **MySQL** for stable data storage  
+- Full CRUD for properties, tenants, and rent management  
 
 ---
 
@@ -33,6 +37,7 @@
 #### 👨‍💻 Languages & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
@@ -47,13 +52,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
 ### 🔢 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sandeepkumar68/)
-
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sandeepkuywwy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sandeepkuywwy/)
 
 <p align="center">
@@ -72,19 +78,26 @@
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 **Top Finalist** in a college-level coding event  
+- ⌨️ **80 WPM typing speed** with 95% accuracy  
+- 📚 Solved **400+ DSA problems** across LC & GFG  
+
+---
+
 ### 📫 Contact Me
 
 - 📧 **Email:** sandeepkumart088@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/)  
-- 🌐 **Portfolio Website:** Coming Soon...
+- 🌐 **Portfolio:** Coming Soon…  
 
 ---
 
 ### 🙋‍♂️ Fun Fact
 
-> I mix **backend logic** with a pinch of **animation creativity**—tech meets art! 🧠🎨  
-> Learning never stops, whether it's DSA patterns or design patterns!
+> I mix **backend logic** with a bit of **UI creativity** — because tech + art = magic! ✨
 
 ---
 
-⭐️ *Thanks for visiting my GitHub! Feel free to star or fork any repo if you like my work.*
+⭐️ **Thanks for visiting!** Feel free to star ⭐ my repositories if you like my work!

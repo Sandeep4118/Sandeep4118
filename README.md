@@ -16,19 +16,41 @@
 
 ---
 
-### 💼 My Projects
+## 💼 My Projects
 
-#### 🚀 **AI Resume Builder**
-- AI-powered resume generator with editable templates  
-- Live preview + PDF export functionality  
-- Built using **Spring Boot** (Backend) and **HTML/CSS/JS** (Frontend)  
-- Clean API design for smooth resume creation  
+---
 
-#### 🏠 **Property Management System**
-- Platform for listing, searching & managing rental properties  
-- Added **secure login + role-based access**  
-- Integrated **MySQL** for stable data storage  
-- Full CRUD for properties, tenants, and rent management  
+### 🚀 **AI Resume Builder**  
+#### _Spring Boot | HTML | CSS | JavaScript | REST API_  
+**Tech Icons:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+
+A full-stack AI-powered resume creation tool built using **Spring Boot** for backend logic and **HTML/CSS/JS** for the UI.  
+It lets users create, edit, and customize resumes with **live preview** and **PDF export** support.  
+The backend processes resume data through well-structured REST APIs, while the frontend provides a responsive and clean editing environment.  
+Designed with modular components to ensure fast content rendering and smooth user experience.
+
+---
+
+### 🏠 **Property Management System**  
+#### _Spring Boot | MySQL | HTML | CSS | JavaScript | Authentication_  
+**Tech Icons:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+
+A robust property and tenant management platform built with **Spring Boot** and **MySQL**.  
+It allows users to list, search, and manage rental properties with **secure login and role-based access control**.  
+The backend uses REST APIs to handle CRUD operations for properties, tenants, rent cycles, and maintenance records.  
+The frontend (HTML/CSS/JS) provides a clean and user-friendly dashboard for interacting with the system.  
+Designed for reliable data handling and seamless workflow management.
 
 ---
 
@@ -100,4 +122,4 @@
 
 ---
 
-⭐️ **Thanks for visiting!** Feel free to star ⭐ my repositories if you like my work!
+⭐️ **Thanks for visiting!** Feel free to star ⭐ my repositories if you like my work!  

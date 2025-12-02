@@ -24,54 +24,45 @@
 #### _Spring Boot | HTML | CSS | JavaScript | REST API_  
 
 **Tech Icons:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-**Description:**  
-A full-stack AI-powered resume creation tool with an interactive UI and dynamic PDF export system.
-
 **Key Features:**  
-- ⚙️ Built using **Spring Boot** for backend processing and template handling  
-- 🖥️ Frontend made with **HTML, CSS, and JavaScript** for responsive UI  
-- 🔁 **Live preview** while editing resume content  
-- 📄 **PDF export** functionality with clean formatting  
-- 🧩 Modular REST API design for fast and smooth content rendering  
-- 🎯 Focused on real-time editing and user-friendly experience  
+- ⚙️ Backend using **Spring Boot** REST APIs  
+- 🖥️ Frontend built with **HTML/CSS/JS**  
+- 🔁 Live resume preview system  
+- 📄 Export resume as **PDF**  
+- 🎯 Clean modular design  
 
 ---
 
 ### 🏠 **Property Management System**  
-#### _Spring Boot | MySQL | HTML | CSS | JavaScript | Authentication_  
+#### _Spring Boot | MySQL | HTML | CSS | JavaScript_  
 
 **Tech Icons:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-**Description:**  
-A secure and scalable platform for managing rental properties, tenants, and rent activities.
-
 **Key Features:**  
-- 🏡 Add, search, update, and delete property listings (Full CRUD)  
-- 🔑 **Role-based login & authentication** using Spring Security  
-- 🗄️ Backend powered by **Spring Boot** with clean REST API design  
-- 💾 **MySQL** used for structured and reliable data storage  
-- 🖥️ Frontend built using **HTML/CSS/JS** with a simple intuitive UI  
-- 📊 Supports tenant management, rent details & maintenance workflows  
-- 🔐 Ensures data privacy and smooth multi-user operations  
+- 🏡 Manage properties, tenants & rents (CRUD)  
+- 🔐 Role-based secure authentication  
+- 💾 Database built using **MySQL**  
+- 🔗 Backend powered by Spring Boot REST APIs  
+- 🖥️ Clean UI using HTML/CSS/JS  
 
 ---
 
 ## 🛠️ Skills & Tools
 
 #### 👨‍💻 Languages & Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
@@ -95,8 +86,8 @@ A secure and scalable platform for managing rental properties, tenants, and rent
 
 ## 🔢 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sandeepkumar68/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sandeepkuywwy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sandeepkuywwy/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/sandeepkumar68/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sandeepkuywwy-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/sandeepkuywwy/)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sandeepkumar68?theme=light&font=Fira+Code" alt="leetcode stats">
@@ -107,9 +98,15 @@ A secure and scalable platform for managing rental properties, tenants, and rent
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep4118&show_icons=true&theme=radical" alt="stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep4118&layout=compact&theme=radical" alt="langs" />
+
+<!-- WORKING GitHub Stats -->
+<img src="https://github-readme-stats-git-master-sandeep4118.vercel.app/api?username=Sandeep4118&show_icons=true&theme=radical" height="180" />
+
+<br/>
+
+<!-- WORKING Top Languages -->
+<img src="https://github-readme-stats-git-master-sandeep4118.vercel.app/api/top-langs/?username=Sandeep4118&layout=compact&theme=radical" height="180" />
+
 </p>
 
 ---
@@ -125,15 +122,14 @@ A secure and scalable platform for managing rental properties, tenants, and rent
 ## 📫 Contact Me
 
 - 📧 **Email:** sandeepkumart088@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/sandeep-kumar-tiwari](https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/  
 - 🌐 **Portfolio:** Coming Soon…  
 
 ---
 
-### 🙋‍♂️ Fun Fact
-
+### 🙋‍♂️ Fun Fact  
 > I mix **backend logic** with a bit of **UI creativity** — because tech + art = magic! ✨
 
 ---
 
-⭐️ **Thanks for visiting!** Feel free to star ⭐ my repositories if you like my work!
+⭐ **Thanks for visiting!** Feel free to star ⭐ my repositories!

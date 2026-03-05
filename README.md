@@ -1,6 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Sandeep Kumar Tiwari 👋  
+
+<img src="https://komarev.com/ghpvc/?username=Sandeep4118&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=600&lines=Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Explorer+%7C+Full+Stack+Developer;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
 
 </div>
@@ -99,12 +102,10 @@
 
 <p align="center">
 
-<!-- WORKING GitHub Stats -->
 <img src="https://github-readme-stats-git-master-sandeep4118.vercel.app/api?username=Sandeep4118&show_icons=true&theme=radical" height="180" />
 
 <br/>
 
-<!-- WORKING Top Languages -->
 <img src="https://github-readme-stats-git-master-sandeep4118.vercel.app/api/top-langs/?username=Sandeep4118&layout=compact&theme=radical" height="180" />
 
 </p>

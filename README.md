@@ -128,9 +128,6 @@
 
 ---
 
-### 🙋‍♂️ Fun Fact  
-> I mix **backend logic** with a bit of **UI creativity** — because tech + art = magic! ✨
-
 ---
 
 ⭐ **Thanks for visiting!** Feel free to star ⭐ my repositories!

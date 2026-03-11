@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sandeep Kumar Tiwari 👋  
 
-<img src="https://komarev.com/ghpvc/?username=Sandeep4118&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sandeep4118&label=Profile%20views&color=0e75b6&style=flat" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=600&lines=Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Explorer+%7C+Full+Stack+Developer;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
 
@@ -12,16 +12,14 @@
 
 # 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE (AI) student at **NIET, Greater Noida**  
-- 🚀 Learning **Spring Boot, React, and Data Structures & Algorithms**  
-- 🔭 Building real-world **Backend and AI projects**  
+- 🎓 B.Tech CSE (AI) student at **NIET, Greater Noida**
+- 🚀 Learning **Spring Boot, React, and Data Structures & Algorithms**
+- 🔭 Building real-world **Backend and AI projects**
 - 🧠 Interested in **AI, Backend Development & Cloud**
 
 ---
 
 # 💼 My Projects
-
----
 
 ## 🚀 AI Resume Builder  
 **Spring Boot | HTML | CSS | JavaScript | REST API**
@@ -29,17 +27,17 @@
 - Developed an **AI-powered resume builder** for generating professional resumes  
 - Implemented **real-time resume preview and PDF export functionality**  
 - Built backend using **Spring Boot REST APIs**  
-- Clean modular frontend using **HTML, CSS, and JavaScript**
+- Modular frontend built using **HTML, CSS, JavaScript**
 
 ---
 
 ## 👁 Smart Visitor System  
 **Python | OpenCV | Face Recognition | Computer Vision**
 
-- Developed a **real-time face recognition system** using webcam  
+- Developed **real-time face recognition system** using webcam  
 - Implemented **unknown visitor detection with automatic image capture**  
 - Created **visitor logging system using CSV with timestamps**  
-- Integrated **email alert notification system for unknown visitors**
+- Integrated **email alert system for unknown visitors**
 
 ---
 
@@ -74,17 +72,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/sandeepkumar68?theme=light&font=Fira+Code" />
-
-</p>
-
----
-
-# 📊 LeetCode Activity
-
-<p align="center">
-
-<img src="https://leetcode-stats.vercel.app/api?username=sandeepkumar68&theme=dark" />
+<img src="https://leetcard.jacoblin.cool/sandeepkumar68?theme=dark&ext=heatmap"/>
 
 </p>
 
@@ -106,19 +94,19 @@
 
 - 🥇 **Top Finalist in Coding Event**
 - ⌨️ **80 WPM typing speed with 95% accuracy**
-- 📚 Solved **350+ DSA problems on LeetCode & GFG**
+- 📚 Solved **350+ DSA problems**
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact
 
-📧 **Email:**  
+📧 Email  
 sandeepkumart088@gmail.com  
 
-💼 **LinkedIn:**  
+💼 LinkedIn  
 https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/
 
-🧠 **LeetCode:**  
+🧠 LeetCode  
 https://leetcode.com/sandeepkumar68/
 
 ---

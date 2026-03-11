@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Sandeep Kumar Tiwari 👋
+# Hi there, I'm Sandeep Kumar Tiwari 👋  
 
-<img src="https://komarev.com/ghpvc/?username=Sandeep4118&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Sandeep4118&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F779&center=true&width=600&lines=Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Explorer+%7C+Full+Stack+Developer;Always+Learning+%26+Building+Cool+Projects)](https://git.io/typing-svg)
 
@@ -12,9 +12,9 @@
 
 # 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE (AI) student at **NIET, Greater Noida**
-- 🚀 Learning **Spring Boot, React, and DSA**
-- 🔭 Building **backend & AI projects**
+- 🎓 B.Tech CSE (AI) student at **NIET, Greater Noida**  
+- 🚀 Learning **Spring Boot, React, and Data Structures & Algorithms**  
+- 🔭 Building real-world **Backend and AI projects**  
 - 🧠 Interested in **AI, Backend Development & Cloud**
 
 ---
@@ -23,48 +23,50 @@
 
 ---
 
-## 🚀 AI Resume Builder
+## 🚀 AI Resume Builder  
 **Spring Boot | HTML | CSS | JavaScript | REST API**
 
-- Built an **AI-powered resume generator**
-- Implemented **real-time preview and PDF export**
-- Developed backend using **Spring Boot REST APIs**
-- Clean modular design with **HTML/CSS/JS frontend**
+- Developed an **AI-powered resume builder** for generating professional resumes  
+- Implemented **real-time resume preview and PDF export functionality**  
+- Built backend using **Spring Boot REST APIs**  
+- Clean modular frontend using **HTML, CSS, and JavaScript**
 
 ---
 
-## 👁 Smart Visitor System
+## 👁 Smart Visitor System  
 **Python | OpenCV | Face Recognition | Computer Vision**
 
-- Developed **real-time face recognition system**
-- Implemented **unknown visitor detection**
-- Added **automatic image capture & logging**
-- Integrated **email alert notification system**
+- Developed a **real-time face recognition system** using webcam  
+- Implemented **unknown visitor detection with automatic image capture**  
+- Created **visitor logging system using CSV with timestamps**  
+- Integrated **email alert notification system for unknown visitors**
 
 ---
 
-# 🛠 Skills
+# 🛠 Skills & Tools
 
-### Languages & Backend
+### 👨‍💻 Languages & Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-### Frontend
+### 🌐 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-### Tools
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
@@ -78,7 +80,17 @@
 
 ---
 
-# 📊 Coding Activity
+# 📊 LeetCode Activity
+
+<p align="center">
+
+<img src="https://leetcode-stats.vercel.app/api?username=sandeepkumar68&theme=dark" />
+
+</p>
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -92,20 +104,21 @@
 
 # 🏆 Achievements
 
-- 🥇 **Top Finalist** in a coding event
-- ⌨️ **80 WPM typing speed** with 95% accuracy
-- 📚 Solved **350+ DSA problems**
+- 🥇 **Top Finalist in Coding Event**
+- ⌨️ **80 WPM typing speed with 95% accuracy**
+- 📚 Solved **350+ DSA problems on LeetCode & GFG**
 
 ---
 
-# 📫 Contact
+# 📫 Contact Me
 
-📧 Email: **sandeepkumart088@gmail.com**
+📧 **Email:**  
+sandeepkumart088@gmail.com  
 
-💼 LinkedIn  
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/
 
-🧠 LeetCode  
+🧠 **LeetCode:**  
 https://leetcode.com/sandeepkumar68/
 
 ---

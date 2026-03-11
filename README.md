@@ -63,18 +63,22 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
 # 💻 LeetCode Stats
 
 <p align="center">
-
 <img src="https://leetcard.jacoblin.cool/sandeepkumar68?theme=dark&ext=heatmap"/>
-
 </p>
+
+---
+
+# 🔢 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/sandeepkumar68/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sandeepkuywwy-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/sandeepkuywwy/)
 
 ---
 
@@ -105,10 +109,5 @@ sandeepkumart088@gmail.com
 
 💼 LinkedIn  
 https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/
-
-🧠 LeetCode  
-https://leetcode.com/sandeepkumar68/
-
----
 
 ⭐ **Thanks for visiting my profile!**

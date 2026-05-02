@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Sandeep Kumar Tiwari 👋  
+# Hi there, I'm Sandeep Kumar Tiwari   
 
 <img src="https://komarev.com/ghpvc/?username=Sandeep4118&label=Profile%20views&color=0e75b6&style=flat" />
 
@@ -10,18 +10,18 @@
 
 ---
 
-# 🧑‍💻 About Me
+# About Me
 
-- 🎓 B.Tech CSE (AI) student at **NIET, Greater Noida**
-- 🚀 Learning **Spring Boot, React, and Data Structures & Algorithms**
-- 🔭 Building real-world **Backend and AI projects**
-- 🧠 Interested in **AI, Backend Development & Cloud**
+- B.Tech CSE (AI) student at **NIET, Greater Noida**
+- Learning **Spring Boot, React, and Data Structures & Algorithms**
+- Building real-world **Backend and AI projects**
+- Interested in **AI, Backend Development & Cloud**
 
 ---
 
-# 💼 My Projects
+# My Projects
 
-## 🚀 AI Resume Builder  
+## AI Resume Builder  
 **Spring Boot | HTML | CSS | JavaScript | REST API**
 
 - Developed an **AI-powered resume builder** for generating professional resumes  
@@ -31,7 +31,7 @@
 
 ---
 
-## 👁 Smart Visitor System  
+## Smart Visitor System  
 **Python | OpenCV | Face Recognition | Computer Vision**
 
 - Developed **real-time face recognition system** using webcam  
@@ -43,14 +43,14 @@
 
 # 🛠 Skills & Tools
 
-### 👨‍💻 Languages & Backend
+### Languages & Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-### 🌐 Frontend
+### Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
@@ -66,7 +66,7 @@
 
 ---
 
-# 💻 LeetCode Stats
+# LeetCode Stats
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/sandeepkumar68?theme=dark&ext=heatmap"/>
@@ -74,7 +74,7 @@
 
 ---
 
-# 🔢 Coding Profiles
+# Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-sandeepkumar68-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/sandeepkumar68/)
 
@@ -82,7 +82,7 @@
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -94,20 +94,20 @@
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-- 🥇 **Top Finalist in Coding Event**
-- ⌨️ **80 WPM typing speed with 95% accuracy**
-- 📚 Solved **350+ DSA problems**
+- **Top Finalist in Coding Event**
+- **80 WPM typing speed with 95% accuracy**
+- Solved **350+ DSA problems**
 
 ---
 
-# 📫 Contact
+# Contact
 
-📧 Email  
+Email  
 sandeepkumart088@gmail.com  
 
-💼 LinkedIn  
+LinkedIn  
 https://www.linkedin.com/in/sandeep-kumar-tiwari-51743a288/
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile!**
